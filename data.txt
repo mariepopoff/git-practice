@@ -1,0 +1,3 @@
+Name : Marie
+Age : 27
+Favorite color : Blue
